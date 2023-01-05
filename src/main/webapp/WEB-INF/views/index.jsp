@@ -11,5 +11,6 @@
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
     <h2>현대오토에버 합격 제발!!!</h2>
+    <h2>현대오토에버 합격 제발!!! 2트</h2>
 </body>
 </html>
